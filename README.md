@@ -8,3 +8,5 @@ compromising confidentiality
 Live Link for displaying Students Marks-
 
 https://app.powerbi.com/view?r=eyJrIjoiYmNkMzhiMDUtMGM1NS00YjgzLWI4Y2YtNTMzODQ5MzI0NmZkIiwidCI6IjY5MzI3NDk3LWFjMTktNGU5MC1iYWI0LWY2NDVlOTY0YTM4ZiJ9
+
+To Open- Verify each one by one.
